@@ -1,0 +1,7 @@
+
+---
+
+### requirements.txt
+
+```plaintext
+streamlit>=1.0.0
