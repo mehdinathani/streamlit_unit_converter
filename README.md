@@ -8,15 +8,17 @@ This project demonstrates how to build a modular unit converter in Python. The c
 
 ## Domain
 
-This application can be useful across various domains, including:
-- **Education:** Helping students and teachers quickly convert units during lessons or homework.
-- **Engineering & Science:** Assisting engineers, researchers, and scientists with unit conversions required for calculations and experiments.
-- **Finance & Business:** Supporting professionals who need to convert units for logistics, inventory management, or technical analysis.
-- **Everyday Use:** Serving anyone who needs quick, reliable unit conversions in daily tasks.
+This Unit Converter is designed to serve a wide range of domains:
+- **Education:** Ideal for students and educators who need quick, reliable unit conversions for homework, projects, or classroom demonstrations.
+- **Engineering & Science:** Useful for professionals and researchers requiring accurate unit conversions during experiments, design calculations, and technical analyses.
+- **Everyday Use:** Perfect for individuals who need fast and easy conversions in daily tasks.
+- **Finance & Business:** Beneficial for logistics, inventory management, and other business scenarios where unit conversions are frequently required.
+
+Visit the deployed application: [https://unitconverter-mehdinathani.streamlit.app/](https://unitconverter-mehdinathani.streamlit.app/)
 
 ## Features
 
-- **Multiple Conversion Types:**  
+- **Multiple Conversion Types:**
   - **Length:** Convert between meters, kilometers, miles, and feet.
   - **Weight:** Convert between kilograms, grams, pounds, tons, and ounces.
   - **Temperature:** Convert between Celsius, Fahrenheit, and Kelvin.
@@ -40,5 +42,5 @@ This application can be useful across various domains, including:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/unit-converter.git
-   cd unit-converter
+   git clone https://github.com/mehdinathani/streamlit_unit_converter.git
+   cd streamlit_unit_converter
